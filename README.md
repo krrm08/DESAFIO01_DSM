@@ -2,6 +2,11 @@
 
 Este repositorio contiene tres aplicaciones móviles desarrolladas en Kotlin. Estas aplicaciones están diseñadas para demostrar conceptos básicos de programación en Kotlin, incluyendo manejo de entradas del usuario, validación y operaciones matemáticas simples.
 
+## Ramas
+
+- **Master:** Contiene los ejercicios de la Calculadora de Descuentos Salariales
+- **Main:** Contiene el ejercicio de la Calculadora de Promedio de Estudiantes. y la Calculadora Básica.
+
 ## Aplicaciones
 
 ### 1. Calculadora de Promedio de Estudiantes
@@ -59,7 +64,4 @@ Esta es una aplicación de calculadora simple que realiza operaciones aritmétic
 3. Selecciona la operación a realizar (suma, resta, multiplicación, división).
 4. La aplicación mostrará el resultado del cálculo.
 
-## Ramas
 
-- **Master:** Contiene los ejercicios de la Calculadora de Descuentos Salariales
-- **Main:** Contiene el ejercicio de la Calculadora de Promedio de Estudiantes. y la Calculadora Básica.
